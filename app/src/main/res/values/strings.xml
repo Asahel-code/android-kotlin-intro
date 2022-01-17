@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KotlinIntro</string>
+    <string name="p_name">Asahel Enock Kigen</string>
+    <string name="status">Student</string>
+    <string name="btn_more">More</string>
+    <string name="userName">Username:</string>
+    <string name="password">Password:</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
 </resources>
