@@ -47,6 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@drawable/btn_left_bottom_right_top"
             android:text="@string/btn_ok" />
 
         <Button
@@ -54,6 +55,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@drawable/btn_left_top_right_bottom"
             android:text="@string/btn_cancel" />
     </LinearLayout>
 </LinearLayout>

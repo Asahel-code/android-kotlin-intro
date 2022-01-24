@@ -7,4 +7,13 @@
     <string name="password">Password:</string>
     <string name="btn_ok">Ok</string>
     <string name="btn_cancel">Cancel</string>
+    <string name="twitter_title">Happening now</string>
+    <string name="notice_signup">Join Twitter today.</string>
+    <string name="or_R">or</string>
+    <string name="terms_and_condition">By signing up, you agree the Terms of Service and Privacy Policy, including Cookie Use.</string>
+    <string name="notice_login">Already have an account?</string>
+    <string name="google_signup">Sign up with Google</string>
+    <string name="apple_siginup">Sign up with Apple</string>
+    <string name="number_email_signup">Sign up with phone or email</string>
+    <string name="sign_btn">Sign in</string>
 </resources>
